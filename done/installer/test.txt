@@ -1,0 +1,36 @@
+==== 全部文件处理完毕，失败率统计如下 ====
+文件: Company/installer_Australia_Company20250508.csv   总记录数: 3549  失败数: 1953    失败率: 55.03%
+文件: Company/installer_Austria_Company20250509.csv     总记录数: 944   失败数: 364     失败率: 38.56%
+文件: Company/installer_Belgium_Company20250509.csv     总记录数: 684   失败数: 289     失败率: 42.25%
+文件: Company/installer_Brazil_Company20250509.csv      总记录数: 2424  失败数: 1393    失败率: 57.47%
+文件: Company/installer_Canada_Company20250509.csv      总记录数: 801   失败数: 457     失败率: 57.05%
+文件: Company/installer_Czech%20Republic_Company20250509.csv    总记录数: 429   失败数: 145     失败率: 33.80%
+文件: Company/installer_France_Company20250508.csv      总记录数: 863   失败数: 494     失败率: 57.24%
+文件: Company/installer_Germany_Company20250507.csv     总记录数: 6965  失败数: 2843    失败率: 40.82%
+文件: Company/installer_India_Company20250509.csv       总记录数: 3700  失败数: 2182    失败率: 58.97%
+文件: Company/installer_Italy_Company20250508.csv       总记录数: 2909  失败数: 1188    失败率: 40.84%
+文件: Company/installer_Netherlands_Company20250508.csv 总记录数: 1850  失败数: 911     失败率: 49.24%
+文件: Company/installer_Poland_Company20250508.csv      总记录数: 1074  失败数: 445     失败率: 41.43%
+文件: Company/installer_Spain_Company20250507.csv       总记录数: 1885  失败数: 965     失败率: 51.19%
+文件: Company/installer_Switzerland_Company20250509.csv 总记录数: 657   失败数: 271     失败率: 41.25%
+文件: Company/installer_United%20Kingdom_Company20250508.csv    总记录数: 4099  失败数: 2054    失败率: 50.11%
+文件: Company/installer_United%20States_Company20250509.csv     总记录数: 8472  失败数: 5375    失败率: 63.44%
+
+
+==== 全部文件处理完毕，失败率统计如下 ====
+文件: Company/installer_Australia_Company20250508.csv   总记录数: 3549  失败数: 1523    失败率: 42.91%
+文件: Company/installer_Austria_Company20250509.csv     总记录数: 944   失败数: 343     失败率: 36.33%
+文件: Company/installer_Belgium_Company20250509.csv     总记录数: 684   失败数: 236     失败率: 34.50%
+文件: Company/installer_Brazil_Company20250509.csv      总记录数: 2424  失败数: 1224    失败率: 50.50%
+文件: Company/installer_Canada_Company20250509.csv      总记录数: 801   失败数: 405     失败率: 50.56%
+文件: Company/installer_Czech%20Republic_Company20250509.csv    总记录数: 429   失败数: 211     失败率: 49.18%
+文件: Company/installer_France_Company20250508.csv      总记录数: 863   失败数: 489     失败率: 56.66%
+文件: Company/installer_Germany_Company20250507.csv     总记录数: 6965  失败数: 2501    失败率: 35.91%
+文件: Company/installer_India_Company20250509.csv       总记录数: 3700  失败数: 1463    失败率: 39.54%
+文件: Company/installer_Italy_Company20250508.csv       总记录数: 2909  失败数: 1075    失败率: 36.95%
+文件: Company/installer_Netherlands_Company20250508.csv 总记录数: 1850  失败数: 604     失败率: 32.65%
+文件: Company/installer_Poland_Company20250508.csv      总记录数: 1074  失败数: 391     失败率: 36.41%
+文件: Company/installer_Spain_Company20250507.csv       总记录数: 1885  失败数: 851     失败率: 45.15%
+文件: Company/installer_Switzerland_Company20250509.csv 总记录数: 657   失败数: 238     失败率: 36.23%
+文件: Company/installer_United%20Kingdom_Company20250508.csv    总记录数: 4099  失败数: 1564    失败率: 38.16%
+文件: Company/installer_United%20States_Company20250509.csv     总记录数: 8472  失败数: 4572    失败率: 53.97%
