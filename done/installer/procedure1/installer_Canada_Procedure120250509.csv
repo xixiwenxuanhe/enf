@@ -1,19 +1,19 @@
 Number,Company Name,Company Website,Email
-1,1st Electric,https://www.1stelectric.ca,flags@2x.png
+1,1st Electric,https://www.1stelectric.ca,
 2,2M Solar,https://www.2msolar.ca,
-3,3B Energy,https://www.3benergy.ca,flags@2x.png
+3,3B Energy,https://www.3benergy.ca,
 4,3D Electrical,https://3delectricalltd.ca,
 5,3G Energy,https://www.3g-energy.com,
-6,5 Star Electric,https://fivestarelectric.ca,0C6inquiries@fivestarelectric.ca
+6,5 Star Electric,https://fivestarelectric.ca,C6inquiries@fivestarelectric.ca
 7,604-Go-Solar,https://www.604gosolar.com,johndoe@604gosolar.com
-8,741 Rele,http://adinaelectric.com,741rele@linknowlocal.biz
+8,741 Rele,http://adinaelectric.com,rele@linknowlocal.biz
 9,A Clark Roofing & Siding,http://www.aclark.ca,admin@aclark.ca
 10,A Plus Electric,https://www.apluselectricbc.com,admin@apluselectric.ca
 11,A-Star Electric,https://www.astarcalgary.ca,
 12,A.G. Electric,https://agelectricltd.ca,info@agelectricltd.ca
 13,AB Solar,https://www.absolargroup.com,
 14,Abbotsford Solar,https://www.fraservalleysolar.com,
-15,Able Electric,https://www.ableelectricco.ca,webmaster@example.com
+15,Able Electric,https://www.ableelectricco.ca,master@example.com
 16,Above It All Roofing,https://aboveitallroofing.ca,info@aboveitallroofing.ca
 17,Abundant,http://www.abundant.solar,
 18,AC Tech. Electric,http://actechelectric.com,info@actechelectric.com
@@ -36,17 +36,17 @@ Number,Company Name,Company Website,Email
 35,Alectrix Utility Contractors,https://alectrixutility.ca,
 36,All Red Electric,https://allredelectric.ca,
 37,All-Stat Electric,https://allstatelectric.ca,allstat@sasktel.net
-38,Alliance,https://automationelectrician.ca,Sales@AEA.company
+38,Alliance,https://automationelectrician.ca,
 39,Alltrade,https://www.alltradeindustrial.com,
 40,Alpha Solar Corp,https://www.alphasolarcorp.net,
 41,AltaPro,https://www.altapro.ca,
 42,Alternative Solair,https://vie-alternative.com,
 43,Alto Solar,https://www.altosolar.ca,
 44,Am/Pm Electric,https://ampmelectric.ca,alexampminc@gmail.com
-45,AMB Electric,https://ambelectric.ca,team@latofonts.com
+45,AMB Electric,https://ambelectric.ca,
 46,Amor Energy,https://amorenergy.ca,info@amorenergy.ca
-47,AMP Energy,https://www.amp.energy,info@amp.energy
-48,Amray Solar,https://amray.solar,info@amray.solar
+47,AMP Energy,https://www.amp.energy,
+48,Amray Solar,https://amray.solar,
 49,Anchor Roofing,http://www.anchorroofing.ca,
 50,ANJ Engineering,http://www.anjengineering.com,
 51,Anser Power Systems,https://www.anserservice.ca,
@@ -101,16 +101,16 @@ Number,Company Name,Company Website,Email
 100,Boralex,https://www.boralex.com,
 101,Borea Construction,https://boreaconstruction.com,
 102,Boss Solar,https://www.bosssolar.com,
-103,Bourne Electric,https://www.bourne-electric.com,Information@Bourne-Electric.com
+103,Bourne Electric,https://www.bourne-electric.com,rmation@Bourne-Electric.com
 104,Brant Renewable Energy,https://brantrenewable.ca,
-105,Braun Solar Services,https://www.braunsolar.com,Contactinfo@braunsolar.com
+105,Braun Solar Services,https://www.braunsolar.com,info@braunsolar.com
 106,BrighterFuture Solar,http://brighterfuturesolar.ca,Info@BrighterFutureSolar.ca
 107,Brightworks Energy,https://brightworksenergy.com,
 108,Browning Electric,https://browning-electric.ca,dylan@browning-electric.ca
 109,Btek R.E. Products,https://www.btekenergy.com,info@btekenergy.com
 110,Bur Oak,https://bur-oak-resources.ca,sales@bur-oak-resources.ca
 111,Burwash Electric,https://burwashelectric.com,Info@burwashelectric.com
-112,BVGEC,https://www.bvgreenenergy.org,1A0connect@bvgreenenergy.org
+112,BVGEC,https://www.bvgreenenergy.org,A0connect@bvgreenenergy.org
 113,C L Plumbing & Heating,https://www.clplumbing.ca,
 114,C.K. Electric,https://ckelectric.ca,
 115,Camarta Energy,https://www.camartaenergy.ca,
@@ -128,7 +128,7 @@ Number,Company Name,Company Website,Email
 127,CES,https://clearenergysolutions.ca,
 128,CEV Canada,https://cevcanada.ca,
 129,CGS,https://www.centennialglobal.ca,
-130,Channel Custom Builders,https://www.channelcustombuilders.com,badge_41_8@2x.png
+130,Channel Custom Builders,https://www.channelcustombuilders.com,
 131,Charged Electric & Solar,https://charged-electric.ca,info@charged-electric.ca
 132,Citadel Electrical Systems,https://www.citadelelectrical.ca,
 133,ClayMar Electric,https://claymarelectric.ca,info@ClayMarElectric.ca
@@ -156,7 +156,7 @@ Number,Company Name,Company Website,Email
 155,Crown Roofing,https://www.crownroofingltd.com,
 156,CSI Solar,https://www.csisolar.com,
 157,Custom Electric,https://customelectric.com,info@customelectric.com
-158,CV Electrical,https://cvelectrical.ca,contact@sansoxygen.com
+158,CV Electrical,https://cvelectrical.ca,
 159,CWS,https://www.waterproofingsystems.ca,
 160,D-Com Energy Solutions,https://d-com.ca,
 161,D&D Electric,http://www.ddelectric.ca,
@@ -179,7 +179,7 @@ Number,Company Name,Company Website,Email
 178,Doctor Solar,https://www.doctorsolar.ca,
 179,Domolynx,https://domolynx.com,info@domolynx.com
 180,Double L Electric,https://www.doublelelectric.ca,
-181,Downunder Solar,https://www.downundersolar.ca,613-583-0139sales@downundersolar.ca
+181,Downunder Solar,https://www.downundersolar.ca,sales@downundersolar.ca
 182,Drycore,https://www.drycore.com,
 183,DS Electric,http://www.dselectricwindsor.com,
 184,Dubrule Electrical,https://www.dubruleelectric.com,info@dubruleelectric.com
@@ -195,7 +195,7 @@ Number,Company Name,Company Website,Email
 194,Eco-Smart Energy Solutions,https://www.eco-ses.com,
 195,Ecohive,https://ecohive.ca,info@ecohive.ca
 196,EcoHome,https://ecoheat.ca,
-197,EcoLogic Energy Solutions,https://www.ecologicenergy.ca,team@latofonts.com
+197,EcoLogic Energy Solutions,https://www.ecologicenergy.ca,
 198,ÉcoSolaris,https://ecosolaris.com,jason@ecosolaris.ca
 199,ECS Integrated,https://www.ecsintegrated.com,
 200,EEI,https://effisolar.ca,
@@ -212,7 +212,7 @@ Number,Company Name,Company Website,Email
 211,Empower Energy,https://empowerenergysolar.ca,sales@empowerenergy.ca
 212,Empyreal Solar,https://www.rvwalkthru.com/empyreal/,
 213,Energy Economics Solar,https://energyeconomicssolar.ca,UsILoveSolar@energyeconomics.ca
-214,Energy Electric,https://www.energyelectric.ca,info@energyelectric.caTel
+214,Energy Electric,https://www.energyelectric.ca,
 215,Energy Smart,https://energysmartcanada.com,
 216,EnergyPal,https://energypal.com,
 217,EnerTech,http://www.enertech.co,
@@ -249,7 +249,7 @@ Number,Company Name,Company Website,Email
 248,Flyer Electric,https://www.flyerelectric.com,terry@flyerelectric.com
 249,Ford Electric,https://fordelectric.ca,info@fordelectric.ca
 250,Forever Free Solar,https://forever-free.ca,
-251,Fortis Electric,http://www.fortiselectric.com,UsEmailoffice@fortiselectric.comPhone
+251,Fortis Electric,http://www.fortiselectric.com,
 252,Four Elements Electric,https://www.four-elements.ca,info@four-elements.ca
 253,FowlerSolar,https://fowlersolar.com,support@webador.com
 254,Fraser West Electric,https://fraserwestelectric.com,info@fraserwestelectric.com
@@ -259,7 +259,7 @@ Number,Company Name,Company Website,Email
 258,Futricity,https://futricitysolar.com,
 259,Future Solar and Electric,https://futuresolarandelectric.com,info@futuresolarandelectric.com
 260,Future Solar Developments,https://futuresolardevelopments.com,
-261,Future Solutions,https://www.futuresolutions.energy,info@futuresolutions.solar
+261,Future Solutions,https://www.futuresolutions.energy,
 262,Future West Solar,https://futurewestsolar.com,contact@futurewestsolar.com
 263,G. Reid Electric,https://www.greidelectric.ca,Quotegraham@greidelectric.ca
 264,Gallo-Teck,https://www.gallo-teck.ca,
@@ -270,7 +270,7 @@ Number,Company Name,Company Website,Email
 269,Generation Solar,https://www.generationsolar.com,
 270,Geotility,https://www.geotility.com,info@geotility.com
 271,Gerber Electric,https://gerberelectric.ca,
-272,German Solar,https://germansolarcorp.com,impallari@gmail.com
+272,German Solar,https://germansolarcorp.com,
 273,Get Wired Electric,https://www.getwiredelectric.ca,info@getwiredelectric.ca
 274,Gitpo Renew,https://www.gitporenew.com,
 275,GM Electric,https://gmelectricltd.com,
@@ -280,7 +280,7 @@ Number,Company Name,Company Website,Email
 279,Golden Electrical Contracting,https://goldenelectrical.ca,
 280,Gorkon Industries,http://www.gorkonindustries.com,info@gorkonindustries.com
 281,Gott Energy,https://www.gottenergy.com,
-282,GP Wind & Solar,https://gpwindandsolar.com,micah@micahrich.com
+282,GP Wind & Solar,https://gpwindandsolar.com,
 283,GPE,https://www.globalpointenergy.ca,info@globalpointenergy.ca
 284,GRE,https://grandriverenergy.com,
 285,Green Arrow Corp.,https://greenarrowcorp.ca,info@greenarrowcorp.ca
@@ -303,9 +303,9 @@ Number,Company Name,Company Website,Email
 302,Guelph Solar,https://guelphsolar.net,
 303,Guillemette Énergies,https://www.guillemetteenergies.ca,
 304,Guycan,https://guycan.ca,support@guycan.ca
-305,GWS,https://www.goldwatersolar.com,416.400.4747info@goldwatersolar.com
+305,GWS,https://www.goldwatersolar.com,info@goldwatersolar.com
 306,Habitat Studio,https://habitat-studio.com,
-307,Hakai Energy Solutions,https://hakaienergysolutions.com,sales@hakaienergysolutions.comPrivacy
+307,Hakai Energy Solutions,https://hakaienergysolutions.com,
 308,Half Diamond R Electric,https://hdre.ca,
 309,Hamilton Solar Power,https://www.hamiltonsolarpower.ca,hamiltonsolarpower@gmx.com
 310,Hanna Energy,https://hannaenergy.ca,
@@ -314,9 +314,9 @@ Number,Company Name,Company Website,Email
 313,Hardy Electric,https://hardyelectricmb.com,hardy.electric@outlook.com
 314,Harry's Electric,https://www.harryselectric.com,
 315,Hartman Electric,https://hartman-electric.com,
-316,Hatch,https://www.hatch.com,webmaster@hatch.com
+316,Hatch,https://www.hatch.com,master@hatch.com
 317,Haven Solar,https://www.havensolar.ca,
-318,Hedgehog Technologies,https://hedgehogtech.com,Blue-Background-Image@2x.png
+318,Hedgehog Technologies,https://hedgehogtech.com,
 319,Heliotechnik,https://www.heliotechnik.com,Phone647-598-8891Emailsales@heliotechnik.com
 320,Hemingway Electrical,https://www.hemingwayelectricalcontracting.com,hemingwaydoug@gmail.com
 321,Herc Du Soleil,https://www.hercdusoleil.com,info@HercDuSoleil.com
@@ -341,7 +341,7 @@ Number,Company Name,Company Website,Email
 340,Iceberg Solar,https://icebergsolar.com,
 341,IDS Énergie,https://ids-energie.com,
 342,IES,https://www.iesinc.ca,sales@nulliesinc.ca
-343,Image Electric,https://www.imageelectric.ca,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+343,Image Electric,https://www.imageelectric.ca,
 344,INDI Solar,https://www.indi-solar.com,greg@indi-solar.com
 345,Inferno Solar,https://infernosolar.com,
 346,Infinite Electric,https://infiniteelectric.ca,
@@ -353,7 +353,7 @@ Number,Company Name,Company Website,Email
 352,Internazionale Electrical Contractors,http://www.internazionaleelectric.com,
 353,Ion Electrical & Controls,https://ioncontrols.ca,
 354,IOTG Solar,https://iotgsolar.com,contact@iotgsolar.com
-355,IPS,http://integrativeprojectsolutions.com/,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+355,IPS,http://integrativeprojectsolutions.com/,
 356,IPS,https://ipwr.net,sales@ipwr.net
 357,Island Electric,https://www.islandelectric.info,andrew@islandelectric.info
 358,iSolara,https://isolara.com,
@@ -364,22 +364,22 @@ Number,Company Name,Company Website,Email
 363,Jayson Global,https://jaysonglobal.com,
 364,Jaytech Electric,https://jaytechelectric.com,
 365,Jazz Solar Solutions,https://jazzsolar.com,jon@jazzsolar.com
-366,JC Power Solutions,https://www.jcpowersolutions.com,jc@jcpowersolutions.comAddress
+366,JC Power Solutions,https://www.jcpowersolutions.com,
 367,Jeff Mackie Electric,http://www.jeffmackieelectric.com,
 368,Jet Electric,https://jetelectricsk.com,info@jetelectricsk.com
 369,Jet Electrical Contractors,https://www.jetelectricalcontractors.com,
 370,JML Electric,https://www.jmlelectric.ca,office@jmlelectric.ca
 371,JNG Electric,https://jngelectricsk.ca,
 372,Joustra & Sons Electric,https://www.joustraelectric.ca,office@joustraelectric.ca
-373,Just Power,https://justpower.ca,EnergyEmailinfo@justpower.caPhone
+373,Just Power,https://justpower.ca,
 374,K-Lou Electrical,https://k-louelectric.ca,vancouverislandelectric@gmail.com
 375,K.R. Electrical Services,https://www.krelectricalservices.com,
 376,Kajk Constructors,https://kajkconstructors.com,info@kajkconstructors.com
 377,KCP Energy,https://www.livesolarnow.com,info@kcpenergy.com
-378,KD Electric,https://www.kdelectric.ca,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+378,KD Electric,https://www.kdelectric.ca,
 379,Kelowna Solar,http://www.kelowna-solar.com,
 380,KES,https://www.kyneticenergy.com,INFO@KYNETICENERGY.COM
-381,Kicking Horse Power,https://khpcorp.ca,filler@godaddy.comBookingsMy
+381,Kicking Horse Power,https://khpcorp.ca,
 382,Kilts & Cables Solar & Electrical,https://www.kiltsandcables.com,
 383,Kirkland Roofing and Exteriors,https://www.kirklandroofingandexteriors.ca,matt@kirklandroofingandexteriors.ca
 384,Kiwi Newton,https://www.kiwinewton.com,marketing@kiwinewton.com
@@ -390,8 +390,8 @@ Number,Company Name,Company Website,Email
 389,Kymand Roofing,https://www.kymandroofing.com,info@kymandroofing.com
 390,L&C Electric,https://lc-electric.co,
 391,Lakeshore Power Systems,https://lakeshorepowersystems.com,sales@thesolarsupermarket.com
-392,Lakeside Electrical,https://lakesideelectrical.net,flags@2x.png
-393,Lakeside Mechanical Services,https://lakesidemechanical.ca,9033info@lakesidemechanical.caNewsletterCopyright
+392,Lakeside Electrical,https://lakesideelectrical.net,
+393,Lakeside Mechanical Services,https://lakesidemechanical.ca,
 394,Lakeview Electric,https://www.lakeviewelectricltd.ca,
 395,Lancer Electric,https://lancerelectric.ca,service@lancerelectric.ca
 396,Landmark Homes,https://www.landmarkhomes.ca,hello@landmarkhomes.ca
@@ -399,21 +399,21 @@ Number,Company Name,Company Website,Email
 398,Laurin & Leblanc Electrique,https://electricianwestisland.com,
 399,LD Electrical,https://ldelectricalltd.com,ldelectrical@dudek.ca
 400,LDG Electrical,https://www.ldgelectrical.ca,ldgelectrical@shaw.ca
-401,Lexand Electric,https://www.lexandelectric.com,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+401,Lexand Electric,https://www.lexandelectric.com,
 402,LH Solar,https://www.lhsolar.ca,info@lhsolar.ca
-403,Living Skies Solar,https://livingskiessolar.com,user@domain.com
+403,Living Skies Solar,https://livingskiessolar.com,
 404,LML,https://www.groupelml.ca,mlaplante@groupelml.ca
 405,Lock Hill Energy Services,https://www.lockhillenergyservices.ca,ryan@lockhillenergyservices.ca
 406,Logitest Solar,http://www.logitestsolar.ca,info@logitestsolar.ca
 407,Lowther Electric,http://www.lowtherelectric.com,lowtherelectric@gmail.com
-408,Luc Charles Electrical,http://www.luccharles.ca,9335office@luccharles.ca
+408,Luc Charles Electrical,http://www.luccharles.ca,office@luccharles.ca
 409,Lumi Energy,https://www.lumienergy.ca,
 410,LUTW,https://lutw.org,lutw@lutw.org
-411,M.B. Eye Electrical,https://www.mbeyeelectrical.com,Emailinfo@mbeyeelectrical.comPhone
-412,MAC Electrical Contracting,https://www.macelectricalltd.com,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+411,M.B. Eye Electrical,https://www.mbeyeelectrical.com,
+412,MAC Electrical Contracting,https://www.macelectricalltd.com,
 413,Macdonaldelectric,https://macdonaldelectricltd.com,broc@macdonaldelectricltd.com
 414,Mace Electric,https://www.maceelectric.ca,
-415,MAG Solar,https://magsolar.ca,Instagram																									@mag.solar
+415,MAG Solar,https://magsolar.ca,
 416,Mann Engineering,https://www.mannengineering.com,info@mannengineering.com
 417,Mariposa,https://www.mariposaelectric.ca,
 418,Maritime Solar,https://maritimesolar.ca,
@@ -423,17 +423,17 @@ Number,Company Name,Company Website,Email
 422,MCJ Contracting,https://essexelectricalcontractor.ca,
 423,MCL Power,https://mclpower.com,
 424,MEC Projects,https://www.mecprojectsltd.com,info@mecprojectsltd.com
-425,Meek Electric,https://www.meekelectric.ca,meekelectric@gmail.comOur
+425,Meek Electric,https://www.meekelectric.ca,
 426,Meridian Solar & Electric,https://meridiansolar.ca,
 427,Merlyn Power,https://merlynpower.ca,
 428,MFM,http://www.mfmservice.ca,
 429,Mid South Contractors,https://www.midsouthulc.com,
 430,MiEnergy,https://mienergy.ca,
 431,Milani Electric,https://milanielectric.com,
-432,Mitchell and Sun Renewables & Electrical,https://www.mitchellandsun.com,mitchellandsun@gmail.combottom
+432,Mitchell and Sun Renewables & Electrical,https://www.mitchellandsun.com,
 433,Mitra Innovations,https://mitrainnovations.ca,info@mitrainnovations.ca
 434,MJ  Lighting & Electrical,https://www.mjlighting.net,info@mjlighting.net
-435,MJM Solar Solutions,https://mjmsolar.com,impallari@gmail.com
+435,MJM Solar Solutions,https://mjmsolar.com,
 436,MJR Electric,https://mjrelectric.ca,
 437,Modern Niagara,https://modernniagara.com,
 438,Molen Services,https://molenservices.com,info@molenservices.com
@@ -441,7 +441,7 @@ Number,Company Name,Company Website,Email
 440,Moose Power,https://moosepower.com,info@moosepower.com
 441,MPG,https://mpg2010.com,mpg@bell.net
 442,MSM Electric,http://msmelectric.com,
-443,MTK Electrical,https://www.mtkelectrical.com,mtk.elect@gmail.combottom
+443,MTK Electrical,https://www.mtkelectrical.com,
 444,Mulligan's Electric,https://www.mulliganselectric.ca,pagecontact@mulliganselectric.ca
 445,Multeps Solar,https://multeps.ca,
 446,Muskoka Renewable Energy,https://www.muskokarenewableenergy.ca,
@@ -453,32 +453,32 @@ Number,Company Name,Company Website,Email
 452,Neighbour Power,https://neighbourpower.com,
 453,Nergietech,https://nergietech.com,Info@nergietech.com
 454,NetZero Solar,https://www.netzero-solar.com,
-455,New Dawn,https://newdawn-es.com,info@newdawn-es.comPrivacy
-456,New Energy Alternatives,https://www.newenergyalternatives.ca,513-1822solar@newenergyalternatives.ca
+455,New Dawn,https://newdawn-es.com,
+456,New Energy Alternatives,https://www.newenergyalternatives.ca,solar@newenergyalternatives.ca
 457,Newma Power Systems,https://newmapower.com,
-458,Newo,https://newo.energy,info@newo.energy
-459,Newtons,https://newtonall.com,705-878-5846info@newtonall.com
+458,Newo,https://newo.energy,
+459,Newtons,https://newtonall.com,info@newtonall.com
 460,Next Energy Solar,https://nextenergysolar.ca,sales@nextenergysolar.ca
 461,Nexus Energy Products,https://nexusenergyproducts.com,info@nexusepi.com
 462,Nixon Projects,https://nixonprojects.ca,info@nixonprojects.com
 463,Nomad Roofing,https://www.nomadroofing.ca,info@nomadroofing.ca
 464,North American Design & Build,https://nadbcanada.com,info@nadbcanada.com
-465,Northern Electric,http://www.northernelectricltd.com,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+465,Northern Electric,http://www.northernelectricltd.com,
 466,Northern Lights Solar Systems,https://www.solarman.ca,
-467,Northern Power,https://northern-pwr.ca,CONTACTsupport@northern-pwr.com
+467,Northern Power,https://northern-pwr.ca,support@northern-pwr.com
 468,NorthGrid,https://northgrid.ca,admin@northgridsolarinc.com
 469,Northshore Energy Outfitters,https://energy-outfitters.ca,jonpinhorn.typedesign@gmail.com
 470,NOVA,https://renewables.net,
 471,Nova Sun Power,https://novasunpower.com,
 472,NRG Energy,http://www.nrgenergy.ca,
 473,NRG Management,https://nrgmanagement.ca,
-474,NS Off Grid Renewable Energy,https://l-harnish.wixsite.com/nsoffgrid,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+474,NS Off Grid Renewable Energy,https://l-harnish.wixsite.com/nsoffgrid,
 475,NSPG,https://northshorepowergroup.ca,
 476,NuSolar,https://www.nusolar.biz,
-477,NWT Solar,http://nwtsolar.ca,CONTACTinquiries@nwtsolar.ca
+477,NWT Solar,http://nwtsolar.ca,inquiries@nwtsolar.ca
 478,Oceanside Electrical,https://oceansideelectrical.ca,info@oceansideelectrical.ca
 479,Oceanvolt Solar & EV,https://www.oceanvoltsolarandev.ca,info@oceanvoltsolarandev.ca
-480,OEC,https://www.onelec.com,info@onelec.comNorth
+480,OEC,https://www.onelec.com,
 481,Okanagan Solar,https://www.oksolar.ca,info@oksolar.ca
 482,Olson Electric,https://www.olsonelectric.ca,
 483,Omni Solar,https://omnisolar.ca,
@@ -491,25 +491,25 @@ Number,Company Name,Company Website,Email
 490,Orizon Energy,https://orizonenergy.ca,you.general@orizonenergy.ca
 491,Osborne Solar Solutions,https://osbornesolarsolutions.ca,
 492,Oso Renewable Energy,https://www.ososolar.com,
-493,Osprey Electric,https://www.ospreyelectric.com,250-830-0997Emailinfo@ospreyelectric.comVancouver
-494,Ottawa Solar Power,https://www.ottawasolarpower.com,user@domain.com
+493,Osprey Electric,https://www.ospreyelectric.com,
+494,Ottawa Solar Power,https://www.ottawasolarpower.com,
 495,Ottawa Valley Solar,https://ottawavalleysolar.com,jeff@ottawavalleysolar.com
 496,Otter Energy,https://otterenergy.com,
 497,Our Electrician,https://ourelectrician.ca,info@ourelectrician.ca
 498,Outback Electric,https://www.outbackelectricinc.ca,T8H1M9david@outbackelectricinc.ca
 499,OYA Renewables,https://oyarenewables.com,
-500,OZZ,https://www.ozzelectric.com,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+500,OZZ,https://www.ozzelectric.com,
 501,Panason Electric,https://panasonelectric.ca,admin@panason.ca
 502,Panel Upgrade Experts,https://panelupgradeexperts.com,
 503,Paradigm Solar,https://www.paradigmsolar.ca,solar@paradigmpanels.com
-504,Paragon Alternative & Conservative Energy,https://www.paragonenergy.net,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+504,Paragon Alternative & Conservative Energy,https://www.paragonenergy.net,
 505,Pardell Electric,https://www.pardellelectric.com,info@pardellelectric.com
 506,PCL Constructors,https://www.pcl.com,
 507,Penfolds Roofing & Solar,https://www.penfoldsroofing.com,info@penfoldsroofing.com
 508,Phase 3 Electric Ponoka,https://www.phase3electric.ca,info@phase3electric.ca
-509,Phidel Électrique,https://www.phidelelectrique.ca,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+509,Phidel Électrique,https://www.phidelelectrique.ca,
 510,Phil Smith Roofing & Solar,https://www.philsmithroofing.com,items.noleaks@shaw.ca
-511,Pineland Electric,https://pinelandelectric.ca,50365a6fe24f4ff28f6b625410e04a35@sentry.io
+511,Pineland Electric,https://pinelandelectric.ca,a6fe24f4ff28f6b625410e04a35@sentry.io
 512,Pioneer Solar And Renewables,https://pioneersolarenergy.com,info@pioneersolarenergy.com
 513,Platinum Electric,https://platinumelectric.pro,
 514,Platinum Electrical Contractors,https://www.platinumgroup.ca,
@@ -518,7 +518,7 @@ Number,Company Name,Company Website,Email
 517,Portage Electric,http://portageelectric.ca,
 518,Potentia Solar,https://www.potentiarenewables.com,
 519,Poulton Power,https://www.poultonpower.com,BCpoultonpower@gmail.com
-520,Power Aid Electric,https://poweraidelectric.ca,flags@2x.png
+520,Power Aid Electric,https://poweraidelectric.ca,
 521,Power Blitz,https://powerblitz.ca,Info@PowerBlitz.ca
 522,Power East Electric,https://powereastelectric.ca,
 523,Power My Home,https://powermyhome.ca,
@@ -529,7 +529,7 @@ Number,Company Name,Company Website,Email
 528,Powerup,https://www.powerupsolar.ca,
 529,Prairie HVAC/R,https://prairiehvac.com,roy@finchcomputers.com
 530,Prairie Sun Solar,https://prairiesunsolar.com,info@prairiesunsolar.com
-531,Preferred Energy,https://preferredenergy.ca,impallari@gmail.com
+531,Preferred Energy,https://preferredenergy.ca,
 532,Premier Electrical Technician,https://premierelectrical.ca,inquiries@premierelectrical.ca
 533,Premium Electric,https://www.premium-electric.ca,
 534,Primal Electric,https://www.primalelectric.com,
@@ -552,30 +552,30 @@ Number,Company Name,Company Website,Email
 551,R.H. Electric,https://www.rh-electric.com,jason@rh-electric.com
 552,R&L Electric,https://rl-electric.ca,
 553,Radiant Solar,https://radiantsolar.ca,astigma@astigmatic.com
-554,Rainbow Electric,https://www.rainbowelectric.ca,604-932-3813Emailinfo@rainbowelectric.caaccounting
+554,Rainbow Electric,https://www.rainbowelectric.ca,
 555,Rand Electric,http://www.randelectric.ca,
-556,Rankin Skyline Services,https://www.rankinskyline.com,info@rankinskyline.comCopyright
+556,Rankin Skyline Services,https://www.rankinskyline.com,
 557,RAW Group,https://rawgroup.ca,info@rawgroup.ca
-558,Ready Racking,https://readyracking.com,eben@eyebytes.com
+558,Ready Racking,https://readyracking.com,
 559,Ready Solar,https://readysolar.ca,info@readysolar.ca
-560,Redwood Energy,http://redwoodenergy.ca,UsEmaildaniel@redwoodenergy.caPhone
+560,Redwood Energy,http://redwoodenergy.ca,
 561,Regenerate Solar,https://www.regeneratesolar.ca,info@regeneratesolar.ca
 562,Regent Electric,https://regentelectric.ca,
 563,Renewable Energy Solutions,https://offgridisbetter.com,solartech@hotmail.ca
 564,Renewable Lifestyles,https://renewablelifestyles.ca,info@renewablelifestyles.ca
-565,Renewable North,https://www.renewablenorth.com,office@renewablenorth.comLicence
-566,Renewable Watts,https://renewablewatts.ca,contact@sansoxygen.com
+565,Renewable North,https://www.renewablenorth.com,
+566,Renewable Watts,https://renewablewatts.ca,
 567,Renewly Solar,https://renewly.ca,info@renewly.ca
 568,Renolinc Solar,https://www.renolincsolar.com,items.Admin@renolincsolar.com
 569,RESCo Energy,https://rescoenergy.com,
 570,Resmer Power Generation,http://www.resmerpower.com,info@resmerpower.com
 571,Resolution Electric,https://www.resolutionelectric.com,
-572,Revelstoke Electric,https://revelstokeelectric.com,admin@revelstokeelectric.om
+572,Revelstoke Electric,https://revelstokeelectric.com,
 573,RH Electric,https://www.rhelectric.ca,
 574,Ridgeline Power Solutions,https://ridgelinepowersolutions.ca,
-575,Right Direct,https://right.direct,info@right.direct
+575,Right Direct,https://right.direct,
 576,Rising Edge,https://risingedgegroup.com,
-577,Riverside Energy,https://www.riversideenergy.ca,info@riversideenergy.caHello
+577,Riverside Energy,https://www.riversideenergy.ca,
 578,Riverstone Electric,https://www.riverstoneelectric.com,Inc.403-648-9011info@riverstoneelectric.com
 579,Rizon Solar,https://rizonsolar.ca,
 580,Roberts Electrical,https://www.robertselectrical.ca,
@@ -591,7 +591,7 @@ Number,Company Name,Company Website,Email
 590,RST Elecrical,https://www.rstelectrical.co,info@rstelectrical.co
 591,S. Sorensen Electric,https://www.sorensenelectric.ca,
 592,S&H Power Services,https://sandhpowerservices.com,
-593,s2e Technologies,https://www.s2etech.com,664-3636info@s2etech.comUSA
+593,s2e Technologies,https://www.s2etech.com,
 594,Sabb Solar,http://sabbsolar.com,
 595,Safe Roofing,https://www.saferoofing.ca,info@saferoofing.ca
 596,Sage Energy,https://sage-energy.ca,hello@sage-energy.ca
@@ -607,7 +607,7 @@ Number,Company Name,Company Website,Email
 606,SEI Logistics,http://seilogistics.com,info@seilogistics.com
 607,Setco Energy,https://setcosenergy.com,
 608,SGE,https://superiorgreenenergy.com,
-609,Shaw Electrical Solutions,https://shawelectricalsolutions.ca,impallari@gmail.com
+609,Shaw Electrical Solutions,https://shawelectricalsolutions.ca,
 610,Shift Energy,https://shift.ca,
 611,Sifft Electric,https://sifft.ca,
 612,Signature Electric,https://signatureelectric.ca,
@@ -621,15 +621,15 @@ Number,Company Name,Company Website,Email
 620,SkyFire Energy,https://skyfireenergy.com,
 621,Skyline Solar Energy,http://skylinesolarenergy.com,info@skylinesolarenergy.com
 622,Skylit,https://skylit.ca,solar@skylit.ca
-623,SkyPower,https://skypower.com,4625info@skypower.com
+623,SkyPower,https://skypower.com,info@skypower.com
 624,Small Planet Energy,https://smallplanetenergy.ca,info@smallplanetenergy.ca
-625,Smart Solar Canada,https://smartsolarcanada.ca,impallari@gmail.com
+625,Smart Solar Canada,https://smartsolarcanada.ca,
 626,Sol Power,https://solpowerprojects.com,info@solpowerprojects.com
-627,Solana Energy,https://solanaenergy.ca,impallari@gmail.com
-628,Solar Ascent,https://solarascent.ca,482-1800info@solarascent.ca
+627,Solana Energy,https://solanaenergy.ca,
+628,Solar Ascent,https://solarascent.ca,info@solarascent.ca
 629,Solar Community,https://www.solarcommunityhvac.ca,Chilliwackinfo@solarcommunityhvacplus.com
 630,Solar Concepts,http://www.solarconcepts.ca,info@solarconcepts.ca
-631,Solar Connect,https://solarconnectcompany.com,899-6229jennifer@solarconnectcompany.com
+631,Solar Connect,https://solarconnectcompany.com,jennifer@solarconnectcompany.com
 632,Solar Country,https://solarcountry.ca,
 633,Solar Dev,https://solardev.ca,
 634,Solar Dynamics,https://www.solardynamics.ca,
@@ -641,8 +641,8 @@ Number,Company Name,Company Website,Email
 640,Solar Homes,https://solarhomesinc.com,peter@solarhomesinc.ca
 641,Solar Optix,https://www.solaroptix.ca,
 642,Solar Panels Ottawa,https://solarpanelsottawa.ca,sales@solarpanelsottawa.ca
-643,Solar Plantation,https://www.solarplantation.ca,566-3000mi@solarplantation.cawww.solarplantation.ca
-644,Solar Provider Group,https://www.solarprovidergroup.com,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+643,Solar Plantation,https://www.solarplantation.ca,mi@solarplantation.cawww.solarplantation.ca
+644,Solar Provider Group,https://www.solarprovidergroup.com,
 645,Solar Solutions,https://solarsolutions.ca,
 646,Solar X,https://solar-x.ca,
 647,Solar YYC,https://solaryyc.ca,
@@ -650,8 +650,8 @@ Number,Company Name,Company Website,Email
 649,Solarcor,https://www.solarcor.ca,customer.support@solarcor.ca
 650,SolarCorp,https://solarcorp.ca,CSThello@solarcorp.ca
 651,Solareagle,https://www.solareagle.com,
-652,Solario,https://solario.ca,Emailinfo@solario.caOffice
-653,SolarNinjas Energy Solutions,https://solarninjas.energy,9120weshouldhire@solarninjas.energyMonday
+652,Solario,https://solario.ca,
+653,SolarNinjas Energy Solutions,https://solarninjas.energy,
 654,SolarPros,https://www.calgarysolarsystems.ca,
 655,Solarsmith Energy,https://solarsmith.ca,aj@solarsmith.ca
 656,Solartility,https://solartility.ca,
@@ -664,7 +664,7 @@ Number,Company Name,Company Website,Email
 663,Solun Energy,https://solun.ca,info@solun.ca
 664,Solve Energy,https://solveenergy.ca,
 665,Solvest,https://www.solvest.ca,info@solvest.ca
-666,Son Solar,https://www.sonsolar.ca,bruce@sonsolar.caSubmitThanks
+666,Son Solar,https://www.sonsolar.ca,
 667,Sourcetec Energy,http://sourcetecenergy.com,
 668,Southcan Electric,https://www.southcan.ca,info@southcan.ca
 669,Southend Electrical,https://southendelectrical.ca,southendelectrical@live.ca
@@ -676,23 +676,23 @@ Number,Company Name,Company Website,Email
 675,SRP Electric,http://www.srpe.ca,
 676,Stand Sure Electric,https://standsureelectric.com,
 677,Stantec,https://www.stantec.com,media@stantec.com
-678,Stardust Solar Technologies,https://stardustsolar.com,info@stardustsolar.comSocial
+678,Stardust Solar Technologies,https://stardustsolar.com,
 679,Stellar Solar,https://www.stellarsolar.ca,
-680,Stevenson Electric,https://stevensonelectric.ca,micah@micahrich.com
+680,Stevenson Electric,https://stevensonelectric.ca,
 681,STI Solar Technology,https://www.solar-technology.ca,info@solar-technology.ca
 682,Storm Surge Electric,https://stormsurgeelectric.com,
 683,Sun Electrical,https://www.sunsolarelectrical.ca,
 684,Sun Kissed Energy,https://sunkissedenergy.ca,info@sunkissedenergy.ca
 685,Sun Power Solutions,https://www.sunpowersolutions.ca,
 686,Sunbeam Energy,https://www.sunbeamenergy.ca,
-687,Suncatcher,https://suncatchersolar.com,fancybox_sprite@2x.png
-688,Sundawg Solar,https://sundawgs.com,306-912-9988info@sundawgs.com
+687,Suncatcher,https://suncatchersolar.com,
+688,Sundawg Solar,https://sundawgs.com,info@sundawgs.com
 689,Sunfind Solar Products,https://www.sunfindsolarproducts.com,info@sunfindsolarproducts.com
 690,Sunfish Solar,https://sunfishsolar.ca,sunfishsolarinc@gmail.com
 691,SunFlow Solar,https://sunflow.ca,
 692,SunFrog Solar,https://sunfrogsolar.com,
 693,Sungod Industries,https://sungodindustries.ca,
-694,SunGrid,https://www.sungridsolutions.com,1.888.407.4743info@sungridsolutions.com
+694,SunGrid,https://www.sungridsolutions.com,info@sungridsolutions.com
 695,Sunly,https://sunly.ca,hello@sunly.ca
 696,Sunny Coast Electric,https://www.sunnycoastelectric.ca,sunnycoastelectric@gmail.com
 697,Sunplendour,https://sunplendour.ca,
@@ -700,11 +700,11 @@ Number,Company Name,Company Website,Email
 699,SunTap Technologies,https://suntaptechnologies.com,solar@suntaptechnologies.com
 700,Suntech Solar Solutions,https://www.suntechsolarsolutions.ca,info@suntechsolarsolutions.ca
 701,Superior Trades Services,https://www.superiortradesservices.com,superiortrades@hotmail.com
-702,Supernova Energy,https://supernovaenergy.ca,impallari@gmail.com
-703,Surepoint Group,https://www.surepointvi.ca,infovi@surepoint.ca
+702,Supernova Energy,https://supernovaenergy.ca,
+703,Surepoint Group,https://www.surepointvi.ca,vi@surepoint.ca
 704,Surrey Solar & Roofing Solutions,https://www.surreysolarsolutions.com,
 705,SW Energy,https://solarwindsenergy.com,
-706,Sweeney Electric,https://www.sweeneyelectric.net,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+706,Sweeney Electric,https://www.sweeneyelectric.net,
 707,Swiss Solar Tech,https://swisssolartech.com,
 708,Switch Energies,https://www.switchenergies.ca,john@switchenergies.ca
 709,T.H. Solar Wind Energy,http://thsolarwind.com,
@@ -714,7 +714,7 @@ Number,Company Name,Company Website,Email
 713,TCR Coastal Power,https://www.tcrcoastalpower.com,info@tcrcoastalpower.com
 714,TDR Electric,https://www.tdrelectric.ca,
 715,Temagami Electrical Services,https://www.temagamielectricalservices.ca,barret@temagamielectricalservices.ca
-716,Tenet Power,https://tenetpower.com,Close@2x.png
+716,Tenet Power,https://tenetpower.com,
 717,Terawatt Solar,https://www.terawattsolar.ca,
 718,Terra-Green Solar,https://www.terragreensolarnl.com,items.terragreensolar@outlook.com
 719,Terralta,https://terralta.ca,info@terralta.ca
@@ -730,12 +730,12 @@ Number,Company Name,Company Website,Email
 729,Thunderlite Electrical Contracting,https://www.thunderlite.ca,info@thunderlite.ca
 730,Tipro Electric,https://tiproelectric.ca,tiproelectric@gmail.com
 731,TKO Electrical Contracting,https://tkoelectric.ca,
-732,Toews Power,https://toewspower.com,2018_ToewsElectric_F.png_cropped_185x@2x.png
+732,Toews Power,https://toewspower.com,
 733,Toronto Green Builders,https://www.torontogreenbuilders.ca,scott@Torontogreenbuilders.ca
 734,Toronto Solar Power,https://www.solarpowertoronto.com,solarpowertoronto@gmail.com
 735,Toronto Solar Solutions,https://www.torontosolarsolutions.com,
-736,Toronto Wiring,https://torontowiring.com,847-6252info@TorontoWiring.comFREE
-737,TRC Solar,https://trcsolar.ca,eben@eyebytes.com
+736,Toronto Wiring,https://torontowiring.com,
+737,TRC Solar,https://trcsolar.ca,
 738,TreeTop Solar,https://treetopsolar.ca,info@indiantypefoundry.com
 739,TriMac Engineering,https://www.trimaceng.ca,trimac@trimaceng.ca
 740,Triton Electric,https://triton-electric.ca,info@triton-electric.ca
@@ -744,22 +744,22 @@ Number,Company Name,Company Website,Email
 743,Troy's Electric,https://www.troyselectric.ca,
 744,Tru Off Grid,https://truoffgrid.com,
 745,True Beacon,https://truebeacon.ca,
-746,TruSun,https://www.trusun.ca,innovations@trusun.caFirst
+746,TruSun,https://www.trusun.ca,
 747,Tugliq,https://tugliq.com,
 748,TVG,https://theviolingroup.com,info@TheViolinGroup.com
 749,TW Electricals,https://www.twelectricals.com,
 750,Tyconn Services,https://www.tyconnservices.com,office@tyconnservices.com
 751,Ultra Electrical Solutions,https://www.ultraelectricalsolutions.com,
 752,Unitec Electrical Contracting,https://www.unitecelectric.com,
-753,United Power,https://www.unitedpowerltd.com,0G1info@unitedpowerltd.comSubmitThanks
+753,United Power,https://www.unitedpowerltd.com,
 754,Universal Integrated Solutions,https://uisolve.ca,
 755,Unplugged Power Systems,https://unpluggedpowersystems.ca,
-756,Upgreen,https://www.upgreen.ca,Canadainfo@upgreen.caOntario
+756,Upgreen,https://www.upgreen.ca,
 757,Urbanite,https://urbanite.pro,
 758,Valard,https://www.valard.com,
-759,Valley Electric & Solar,https://www.valleyelectricandsolar.ca,Conrad@valleyelectricandsolar.caTSBC
-760,Vancouver Solar & Electrical,https://www.vancouversolarpv.ca,info@vancouversolarpv.caGet
-761,VCT Group,https://vctgroup.com,info@vctgroup.comCOMMERCIAL
+759,Valley Electric & Solar,https://www.valleyelectricandsolar.ca,
+760,Vancouver Solar & Electrical,https://www.vancouversolarpv.ca,
+761,VCT Group,https://vctgroup.com,
 762,Vert Energy,https://www.vertenergy.ca,
 763,Vert Globe,http://vertglobe.com/,
 764,Vertex Solar Solutions,https://vertexsolarsolutions.com,
@@ -768,15 +768,15 @@ Number,Company Name,Company Website,Email
 767,Viel Solar,https://vielsolar.com,
 768,Viridian Energy,https://viridiansolar.ca,info@vecoop.ca
 769,Virtual Engineers,http://www.virtual-engineers.com,info@virtual-engineers.com
-770,VoiceLight Solar Energy,https://voicelightsolarenergy.com,impallari@gmail.com
+770,VoiceLight Solar Energy,https://voicelightsolarenergy.com,
 771,Voltarix Group,https://voltarixgroup.com,
-772,Volts Energies,https://volts.ca,g-form-112883-afterSubmit.message-m3zeeo0t-Volts_Energies_Logo__Website_255x@2x.png
+772,Volts Energies,https://volts.ca,
 773,VREC,https://www.vrec.ca,
 774,Vulcan Electrical,https://www.vulcanelectrical.com,
-775,W Dusk Energy Group,https://www.wduskgroup.com,usMediaContactNameEmailPhoneMessagedavid@wduskgroup.comSendThanks
-776,W. McNeil Electrical,https://www.wmcneil.com,impallari@gmail.com
+775,W Dusk Energy Group,https://www.wduskgroup.com,
+776,W. McNeil Electrical,https://www.wmcneil.com,
 777,Warmac Energy,https://www.warmacenergy.com,Carolinaadmin@warmacenergy.com
-778,Water Valley Electrical,https://www.wvelectrical.com,info@wvelectrical.caBOOK
+778,Water Valley Electrical,https://www.wvelectrical.com,
 779,Waterloo Energy Products,https://waterlooenergy.com,info@waterlooenergy.com
 780,WATT Renewables,https://www.wattrenewables.com,
 781,Wattsup Solar,https://wattsupsolar.ca,contact@wattsupsolar.ca

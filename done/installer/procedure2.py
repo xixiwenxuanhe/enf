@@ -1,9 +1,38 @@
 import os
 import pandas as pd
+import random
+
+# 邮箱前缀及其概率
+EMAIL_PREFIXES = {
+    'info': 0.6,
+    'service': 0.2,
+    'contact': 0.2
+}
+
+def random_case_word(word: str) -> str:
+    """随机处理单词的大小写"""
+    r = random.random()
+    if r < 0.9:      # 90%概率全小写
+        return word.lower()
+    elif r < 0.95:   # 5%概率首字母大写
+        return word.capitalize()
+    else:            # 5%概率全大写
+        return word.upper()
 
 def generate_email(name):
+    # 清理公司名称
     name_clean = ''.join(e for e in name.lower() if e.isalnum())
-    return f"info@{name_clean}.com"
+    
+    # 根据概率随机选择前缀
+    prefix = random.choices(
+        list(EMAIL_PREFIXES.keys()),
+        weights=list(EMAIL_PREFIXES.values())
+    )[0]
+    
+    # 随机处理前缀大小写
+    prefix = random_case_word(prefix)
+    
+    return f"{prefix}@{name_clean}.com"
 
 input_dir = 'procedure1'
 output_dir = 'procedure2'

@@ -113,27 +113,48 @@ def is_static_resource(email: str) -> bool:
             return True
     return False
 
+def process_email(email: str) -> tuple[str, str]:
+    """
+    处理邮箱地址，返回处理后的邮箱和原始邮箱
+    
+    Args:
+        email: 原始邮箱字符串
+        
+    Returns:
+        tuple: (处理后的邮箱, 原始邮箱). 如果处理后的邮箱无效，则第一个元素为空字符串
+    """
+    if not isinstance(email, str) or not email:
+        return "", email
+        
+    email = email.strip()
+    
+    # 检查是否为静态资源
+    if is_static_resource(email):
+        return "", email
+        
+    # 过滤和清理邮箱
+    filtered_email = filter_email(email)
+    return filtered_email, email
+
 def main():
     input_file = os.path.join(os.path.dirname(__file__), 'extracted_emails.txt')
     output_file = os.path.join(os.path.dirname(__file__), 'cleaned_emails.txt')
     if not os.path.exists(input_file):
         print(f"错误: 未找到输入文件 {input_file}")
         return
+        
     cleaned_emails = []
     with open(input_file, 'r', encoding='utf-8') as fin, \
          open(output_file, 'w', encoding='utf-8') as fout:
         total = 0
         for line in fin:
-            email = line.strip()
             total += 1
-            if is_static_resource(email):
-                fout.write('        ' * 2 + email + '\n')
-                cleaned_emails.append("")
-                continue
-            filtered = filter_email(email)
-            fout.write(f"{filtered}{'        '}{email}\n" if filtered else f"{'        '}{email}\n")
-            cleaned_emails.append(filtered if filtered else "")
+            filtered_email, original_email = process_email(line.strip())
+            fout.write(f"{filtered_email}{'        '}{original_email}\n" if filtered_email else f"{'        '}{original_email}\n")
+            cleaned_emails.append(filtered_email)
+            
     print(f"处理完成，共处理 {total} 行，结果已保存到 {output_file}")
+    
     # 统计并输出重复邮箱
     email_counter = Counter([e for e in cleaned_emails if e])
     duplicates = [email for email, count in email_counter.items() if count > 1]

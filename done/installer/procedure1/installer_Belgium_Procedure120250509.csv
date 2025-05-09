@@ -1,7 +1,7 @@
 Number,Company Name,Company Website,Email
 1,123 Solar,https://www.123-solar.be,
-2,A.E.S.,https://www.aes-elektriciteit.be,BelgiumE-mailinfo@aes-elektriciteit.beTelefoonnummer
-3,A.G. Dakwerken Alain Geens,https://www.agdakwerken.be,06a.gdakwerken@hotmail.comBTW
+2,A.E.S.,https://www.aes-elektriciteit.be,
+3,A.G. Dakwerken Alain Geens,https://www.agdakwerken.be,
 4,A&J Electric,https://www.aj-electric.be,contact@aj-electric.be
 5,A2 Toit,https://www.a2toit.be,info@a2toit.be
 6,Abcool Tech,https://www.abcool.be,info@abcool.be
@@ -23,15 +23,15 @@ Number,Company Name,Company Website,Email
 22,Agile Technics,https://agiletechnics.be,info@agiletechnics.be
 23,Alfasun,https://alfasun.be,info@alfasun.be
 24,Alkaman Solutions,https://alkamansolutions.be,info@alkamansolutions.be
-25,All Solar,https://www.allsolar.be,Contact0477664813info@allsolar.beALL
+25,All Solar,https://www.allsolar.be,
 26,All your Energy Solutions,https://allyourenergysolutions.be,
 27,Almati Solutions,https://almati.be,Info@almati.be
 28,Alrasol,https://alrasol.be,info@alrasol.be
 29,Alrootel,https://alrootel.businessbooster.website,info@alrootel.com
 30,Alter Energies,https://www.alter-energies.be,
 31,AlterElectra,http://www.alterelectra.be,info@alterelectra.com
-32,Alyatech,https://www.alyatech.be,04info@alyatech.be
-33,Ameel Koeltechniek,https://www.ameel-technics.be,16info@ameel-technics.be
+32,Alyatech,https://www.alyatech.be,info@alyatech.be
+33,Ameel Koeltechniek,https://www.ameel-technics.be,info@ameel-technics.be
 34,Amoovo Energy,https://www.amoovo.com,TOM@amoovo.com
 35,Aquation,https://www.aquation.be,marc.joiret@aquation.be
 36,AR&B Solar,https://www.arnb-solar.be,info@arnb-solar.be
@@ -39,8 +39,8 @@ Number,Company Name,Company Website,Email
 38,Arkwabo,https://arkwabo.be,
 39,ARS-Dakwerken,https://www.ars-dakrenovatie.be,
 40,Arsol,http://www.arsol.be,
-41,Aspeslagh,https://www.aspeslaghdeinze.be,info@aspeslaghdeinze.beverkoopsvoorwaardenAspeslagh
-42,Atom Solar,https://www.atom.be,00info@atom.beMa
+41,Aspeslagh,https://www.aspeslaghdeinze.be,
+42,Atom Solar,https://www.atom.be,
 43,ATS,http://www.atsbvba.be,
 44,Avci Elektrotechniek,http://avci-elektro.be,finance@yools.be
 45,Avipko,https://www.avipko.be,
@@ -57,7 +57,7 @@ Number,Company Name,Company Website,Email
 56,Batimont,https://www.batimont.be,
 57,BatiPro Energy,https://batipro-energie.be,
 58,Batisol,https://www.batisol.be,info@batisol.be
-59,Bay-Tec,https://www.bay-tec.be,92info@bay-tec.beBE
+59,Bay-Tec,https://www.bay-tec.be,
 60,BB Works,https://www.bb-works.net,bruno@bb-works.net
 61,BBK Systems,https://bbksystems.be,
 62,BDR Energie,https://www.bdrenergie.be,
@@ -75,7 +75,7 @@ Number,Company Name,Company Website,Email
 74,Belsol,http://belsol.eu,
 75,Benex,https://www.benex.be,
 76,BeProjects,https://www.beprojects.be,
-77,Bernaerts Technics,https://bernaerts-technics.be,onsinfo@svtechnics.beBel
+77,Bernaerts Technics,https://bernaerts-technics.be,
 78,Berrentec,https://berrentec.be,
 79,Bertrand & Darimont,https://www.bertrand-darimont.be,
 80,BES,https://www.bes.be,
@@ -105,19 +105,19 @@ Number,Company Name,Company Website,Email
 104,Carl Pieters,https://www.carlpieters.be,info@carlpieters.be
 105,Carodel,https://www.carodel.net,info@carodel.net
 106,CB Energy,https://cb-energy-photovoltaique.be,
-107,CC Service,https://ccservice.be,mailtjehello@ccservice.be
+107,CC Service,https://ccservice.be,tjehello@ccservice.be
 108,CD Concept Solar,https://www.cdconceptsolar.be,
 109,CDES Services,https://www.cdesservices.be,sales@cdes.be
 110,Chauffage Closset,https://www.chauffage-closset.be,foretvert.nrj@gmail.com
 111,Christal-Energies,https://www.christal-energies.be,
-112,Christiaens,https://www.christiaens-bv.be,85info@christiaens-bv.beBE
+112,Christiaens,https://www.christiaens-bv.be,
 113,Cinergy Europe,https://cinergy.solar,info@cinergy.be
-114,City Energy,https://www.cityenergy.be,support@jouwweb.nl
-115,Clay Service,https://clay-service.eu,74clayservice@outlook.com
+114,City Energy,https://www.cityenergy.be,
+115,Clay Service,https://clay-service.eu,clayservice@outlook.com
 116,Climamaster,https://www.climamaster.be,info@climamaster.be
 117,ClimaSan,https://www.climasan.be,
-118,ClimaSun,https://www.climasun.be,info@climasun.beBTW
-119,CLS Service,https://clsservice.be,59luc@clsservice.beSitemapHernieuwbare
+118,ClimaSun,https://www.climasun.be,
+119,CLS Service,https://clsservice.be,
 120,Consolar Belgium,https://www.consolar.be,
 121,Coolline-Solar,https://coolline.be,info@coolline.be
 122,Coretec,https://coretec.be,
@@ -129,7 +129,7 @@ Number,Company Name,Company Website,Email
 128,Dak & Co,https://www.dakenco.be,info@dakenco.be
 129,Dak- en Gevelrenovatie VDS,https://vdsdak-gevelrenovatie.be,
 130,Dakprofiel Moens,http://www.dakprofielmoens.be,
-131,Dakwerken David & Zoon,https://www.dakwerkendavid.be,94davidenzoon@gmail.comBTW
+131,Dakwerken David & Zoon,https://www.dakwerkendavid.be,
 132,Dakwerken Van Riet,https://www.dakwerkenvanriet.be,dakwerken.vanriet@gmail.com
 133,Daraz Elektro,https://www.daraz.be,
 134,Dauvister,https://www.dauvister.com,
@@ -145,20 +145,20 @@ Number,Company Name,Company Website,Email
 144,Deba,https://debaroeselare.be,
 145,Debel Elec,https://www.debelelec.be,
 146,Decancq Group,http://www.decancq.be,fleur@decancq.be
-147,Decat,https://www.decat.be,OFFICEinfo@decat.be
+147,Decat,https://www.decat.be,info@decat.be
 148,Dedecker Installaties,https://www.dedeckerinstallaties.be,info@dedeckerinstallaties.be
-149,Delecsol,https://delecsol.be,info@delecsol.beBE
+149,Delecsol,https://delecsol.be,
 150,DELEX,https://www.delex.eco,
 151,Delhez Solar,https://delhezsolar.be,secretariat@delhezsolar.be
-152,Delnatte & Fils,https://www.chauffage-delnatte.be,contact@chauffage-delnatte.beDelnatte
+152,Delnatte & Fils,https://www.chauffage-delnatte.be,
 153,Delta Luminance,http://www.deltaluminance.be,info@deltaluminance.be
 154,Demoitié,https://www.entreprise-demoitie.be,info@entreprise-demoitie.be
 155,Derouck Elektro,https://www.derouckelektro.be,
 156,Desmyter Electro,http://www.electro-installatie.be,
 157,DeVaPower,https://devapower.be,info@devapower.be
-158,Dewulf Techniek,https://www.dewulf-techniek.be,0476722196info@dewulf-techniek.be
-159,DGS Solar,https://www.dgs-groep.be,39info@dgsenergie.be
-160,DHome Systems,https://dhomesystems.be,524danypauwels@dhomesystems.be
+158,Dewulf Techniek,https://www.dewulf-techniek.be,info@dewulf-techniek.be
+159,DGS Solar,https://www.dgs-groep.be,info@dgsenergie.be
+160,DHome Systems,https://dhomesystems.be,danypauwels@dhomesystems.be
 161,DM Solar,https://dmsolar.be,info@dmsolar.be
 162,DMS Installatie,https://dmsinstallatie.be,
 163,DNT Engineering,https://dnte.be,info@dnte.be
@@ -174,7 +174,7 @@ Number,Company Name,Company Website,Email
 173,e-Activ,https://e-activ.be,
 174,E-advies,http://e-advies.org,
 175,E-Cocoon,https://www.e-cocoon.be,
-176,E-LAC,https://elac.be,fancybox_loading@2x.gif
+176,E-LAC,https://elac.be,
 177,E-Tec,https://e-tec.be,info@e-tec.be
 178,E&S Solar,http://www.es-solar.be,info@es-solar.be
 179,Easykit,https://www.easykit.be,melle@easykit.be
@@ -182,7 +182,7 @@ Number,Company Name,Company Website,Email
 181,Ebeco,https://ebeco.be,info@ebeco.be
 182,EBK,https://www.ebkbvba.be,info@ebkbvba.be
 183,Eco Cool Zonnepanelen,https://eco-cool-zonnepanelen.be,info@eco-cool-zonnepanelen.be
-184,Eco Elec Belgium,https://www.ecoelecbelgium.com,32499600986info@ecoelecbelgium.comwindow
+184,Eco Elec Belgium,https://www.ecoelecbelgium.com,
 185,Eco Max,https://www.eco-max.be,
 186,Eco Technics,https://ecotechnics.be,info@ecotechnics.be
 187,Eco-Techniek,https://eco-techniek.be,info@eco-techniek.be
@@ -194,17 +194,17 @@ Number,Company Name,Company Website,Email
 193,EcoFusion,https://www.ecofusion.be,info@ecofusion.be
 194,Ecolep,http://ecolep.be,
 195,Economiseur,http://www.economiseur.be,info@economiseur.be
-196,ecopuur,https://www.ecopuur.be,20info@ecopuur.beDienstenVerwarming
+196,ecopuur,https://www.ecopuur.be,
 197,Ecosol+,https://www.ecosolplus.be,info@ecosolplus.be
 198,Ecosystec,https://www.ecosystec.be,info@mastery-concept.be
 199,Ecotec Systems,https://vf-energy.be,
-200,Ecotech,https://www.ecotech.vlaanderen,80info@ecotech.vlaanderenNaam
+200,Ecotech,https://www.ecotech.vlaanderen,
 201,Ecotech Electro,http://www.ecotech-plasmans.be,ecotechbvba@live.be
-202,Ecovolution,https://eco-volution.be,mzr7FvBhjpXG8HV1@QtE-inq6NlWkbe5IKw0c.UTsRZMPSgaJ
+202,Ecovolution,https://eco-volution.be,
 203,EDA,https://www.edageneralelec.com,
 204,EDSS,https://www.edss.be,
 205,EEG,https://eeg.be,
-206,Egcollignon,https://www.egcollignongroup.be,info@egcollignongroup.beEntreprise
+206,Egcollignon,https://www.egcollignongroup.be,
 207,EGS Projects,https://egsprojects.be,info@egsprojects.be
 208,EHCS,https://www.ehcs-mechelen.be,ehcs-bvba@outlook.com
 209,Ekotermika,https://ekotermika.be,
@@ -225,13 +225,13 @@ Number,Company Name,Company Website,Email
 224,Elektro Bastiaens,https://www.bastiaensbvba.be,geert@bastiaensbv.be
 225,Elektro Borgs,http://www.elektriciteitswerken-borgs.be,
 226,Elektro Gantois,https://www.elektrogantois.be,info@elektrogantois.be
-227,Elektro MAVA,https://www.elektromava.be,flags@2x.png
-228,Elektro Van De Sande,https://www.elv.be,29info@elv.be
+227,Elektro MAVA,https://www.elektromava.be,
+228,Elektro Van De Sande,https://www.elv.be,info@elv.be
 229,Elektro Verschuere,https://www.elektro-verschuere.be,info@elektro-verschuere.be
 230,Elektro-Cox,https://elektro-cox.be,
 231,Elektroline,https://www.elektroline.be,info@elektroline.be
 232,Elektrotechniek Pieter De Beule,http://www.pieterdebeule.be,
-233,Elentra,https://www.elentra.be,Kontichinfo@elentra.beVeelgestelde
+233,Elentra,https://www.elentra.be,
 234,Eleverco,https://eleverco.be,info@eleverco.be
 235,Elextra,https://elextra.be,elextra@elextra.be
 236,Elias Techniek,https://www.eliastechniek.be,
@@ -258,13 +258,13 @@ Number,Company Name,Company Website,Email
 257,Energietech,https://www.energietech.be,info@energietech.be
 258,EnergieWest,https://energiewest.be,info@energiewest.be
 259,Energise-Toi,https://www.energise-toi.be,lecompagnondutoit@gmail.com
-260,Energreen,https://www.energreen.com,aanvrageninfo@energreen.comGreen
+260,Energreen,https://www.energreen.com,
 261,Energy Protect,https://www.energyprotect.be,
-262,Energy Solutions Group,https://energysolutionsgroup.be,80info@energysolutionsgroup.be
+262,Energy Solutions Group,https://energysolutionsgroup.be,info@energysolutionsgroup.be
 263,EnergyBuilders,https://www.energy-builders.com,office@energy-builders.com
 264,Energyinitiative,https://www.energyinitiative.be,
-265,EnergyKing,https://energyking.be,10info@energyking.beBTW
-266,EnergyP,https://energyp.be,infoinfo@energyp.be
+265,EnergyKing,https://energyking.be,
+266,EnergyP,https://energyp.be,info@energyp.be
 267,Enersol,https://www.enersol.be,
 268,Enertec,http://www.enertec.be,info@enertec.be
 269,Ensys,https://ensys.be,info@ensys.be
@@ -277,13 +277,13 @@ Number,Company Name,Company Website,Email
 276,Erens,https://www.erens-verwarming.be,info@erens-verwarming.be
 277,Erik De Vocht,https://www.elektriciteitswerkenerikdevocht.be,
 278,Erwin Schrevens,https://www.schrevens.eu,info@schrevens.eu
-279,ESD,https://www.esdbv.be,support@jouwweb.nl
+279,ESD,https://www.esdbv.be,
 280,Ese Solar,https://www.esesolar.be,info@esegroup.be
-281,ESV-Blomme,https://esv-blomme.be,55E-mailinfo@esv-blomme.beAdresESV
+281,ESV-Blomme,https://esv-blomme.be,
 282,ETL,https://www.etl-elektro.be,info@etl-elektro.be
 283,Ets Derenne Thomas,https://www.derennethomas.be,
-284,ETS Schelhaever,https://energies-renouvelables-schel.be,941141frederic.schelhaever@gmail.comaccueilpompe
-285,Euro Energy,https://www.euroenergy-be.com,contact@euroenergy-be.comT
+284,ETS Schelhaever,https://energies-renouvelables-schel.be,
+285,Euro Energy,https://www.euroenergy-be.com,
 286,EVC,https://www.evc-elektriciteitswerken.be,
 287,Evo,http://www.evobvba.be,info@evobvba.be
 288,Ewlj,https://ewlj.be,
@@ -293,7 +293,7 @@ Number,Company Name,Company Website,Email
 292,Fabeleco,https://www.fabeleco.be,
 293,Felvo,https://felvo.be,info@felvo.be
 294,Feront,https://www.electricite-feront.be,
-295,Feys,https://elektriciteitswerkenfeys.be,51235fdcb521d023fce642ac3a8d1e40@2x.jpg
+295,Feys,https://elektriciteitswerkenfeys.be,
 296,FimexSol,https://fimexsol.be,
 297,Finale 24,https://finale24.com,secretariat@finale24.com
 298,FinEnergy,http://www.finenergy.be,info@finenergy.be
@@ -303,10 +303,10 @@ Number,Company Name,Company Website,Email
 302,Fraselle et Fils,https://www.fraselleetfils.be,info@fraselleetfils.be
 303,Frigo Techniek,https://frigo-techniek.be,info@frigo-techniek.be
 304,Frisch,https://www.frischdakwerken.be,johan@frischdakwerken.be
-305,FT-Technics,https://www.ft-technics.be,99info@ft-technics.beBTW
+305,FT-Technics,https://www.ft-technics.be,
 306,Full Charge,https://full-charge.be,
 307,Full Solar,http://full-solar.com.br,
-308,Full Sun,http://fullsun.be,80.36.67info@fullsun.be
+308,Full Sun,http://fullsun.be,info@fullsun.be
 309,Futech Solar,https://futech.be,
 310,G-Solar,https://g-solar.be,
 311,Galileo Energy,https://www.galileo-energy.be,Patrick.denhaese@galileo-energy.be
@@ -316,21 +316,21 @@ Number,Company Name,Company Website,Email
 315,Gert Stroobants,https://www.zonnepanelenstroobants.be,info@zonnepanelen-stroobants.be
 316,GG Technics,http://ggtechnics.be,
 317,Global Gates,https://globalsolar.be,info@globalsolar.be
-318,GM-Projects,https://www.gm-projects.be,info@gm-projects.beGoogle
+318,GM-Projects,https://www.gm-projects.be,
 319,Go-Solar,https://www.go-solar.be,
-320,Green,https://www.green.be,01contact@green.be
+320,Green,https://www.green.be,contact@green.be
 321,Green House Solutions,https://www.greenhousesolutions.be,info@greenhousesolutions.be
 322,Green Solutions,https://www.solarlec.be,
 323,Green Spark Technics,https://greensparktechnics.be,onsInfo@greensparktechnics.be
 324,Green Technics,https://www.greentechnics.be,tom@greentechnics.be
 325,Green-Sun,https://www.green-sun.be,
-326,Green-Team,https://www.green-team.be,318679marco.camerman@green-team.be
+326,Green-Team,https://www.green-team.be,marco.camerman@green-team.be
 327,Greenfarmerz,https://www.greenfarmerz.be,info@greenfarmerz.eu
 328,Greenpulse,https://www.greenpulse.eu,info@greenpulse.eu
 329,Greenson,https://www.greenson.be,info@greenson.be
 330,Grégoire Vincent,http://www.gregoiretoiture.be,info@gregoiretoiture.be
 331,Groene Zon,https://groenezon.be,info@groenezon.be
-332,Group Solar,https://groupsolar.be,09info@groupsolar.be
+332,Group Solar,https://groupsolar.be,info@groupsolar.be
 333,Group T.A.T.,https://grouptat.be,info@grouptat.be
 334,GTS Technics,https://www.gtstechnics.be,info@gtstechnics.be
 335,Gui-Ohm & V.Elec,https://www.gui-ohm.com,Guillaume@Gui-Ohm.com
@@ -343,21 +343,21 @@ Number,Company Name,Company Website,Email
 342,Hendrik De Nijs,https://hendrikdenijs.be,frederik@friswebdesign.be
 343,Hermans Ivo,http://dakwerkenivohermans.be,info@dakwerkenivohermans.be
 344,Heutz,http://www.heutz.be,
-345,Heylen,https://www.heylen-photovoltaique.be,info@heylen-photovoltaique.be
-346,Hivolta,https://www.hivolta.be,58hello@hivolta.beOver
+345,Heylen,https://www.heylen-photovoltaique.be,
+346,Hivolta,https://www.hivolta.be,
 347,HM Technics,http://www.hmtechnics.be,info@hmtechnics.be
 348,HMS,https://www.hmservice.be,info@hmservice.be
 349,Hocetec,https://www.hocetec.be,
-350,Horizon Energie,https://www.horizon-energie.be,infos@horizon-energie.be
+350,Horizon Energie,https://www.horizon-energie.be,
 351,Hs-Group,https://www.hsgroup.be,
 352,HSA Projects,https://hsa-projects.be,info@hsa-projects.be
-353,Huby Chauffage,http://huby-chauffage.com,commercial@huby-chauffage.comPour
+353,Huby Chauffage,http://huby-chauffage.com,
 354,Huyghe Technics,https://www.huyghe-technics.be,
 355,IBA Technics,https://www.ibatechnics.be,
 356,Iflow,https://installflow.com,alex@installFlow.com
 357,IHouse,https://www.ihouse.be,Kasterleeinfo@ihouse.be
 358,Ikaros Solar,https://www.ikaros-solar.eu,contact@radiance-energy.eu
-359,Imaginate Solar & Energy,https://www.imaginate-electrics.be,info@imaginate-electrics.beBTW
+359,Imaginate Solar & Energy,https://www.imaginate-electrics.be,
 360,IMM,https://imm.energy,
 361,Ingelec,https://ingelec.be,info@ingelec.be
 362,Insaver,https://insaver.be,
@@ -366,13 +366,13 @@ Number,Company Name,Company Website,Email
 365,Installatiebedrijf Verheyden,https://www.instalverheyden.be,info@instalverheyden.be
 366,Intelligent Wonen,https://www.intelligentwonen.be,info@intelligentwonen.be
 367,Intellisol,https://intellisol.be,info@intellisol.be
-368,Intérieur & Chaleur,https://interieur-chaleur.be,chosen-sprite@2x.png
+368,Intérieur & Chaleur,https://interieur-chaleur.be,
 369,IQ Solar,https://www.iq-solar.be,samir.elmhassani@iq-solar.be
 370,Isola,https://www.isola.be,info@isola.be
 371,IZEN,https://www.izen.eu,
 372,Jany Gofflot,http://www.janygofflot.be,CONTACT@JANYGOFFLOT.BE
 373,Jaumotte Dominique,https://wallux.com/chauffage-dominique-jaumotte-attert,
-374,Jery-Remy,https://jery-remy.be,info@jery-remy.bePolitique
+374,Jery-Remy,https://jery-remy.be,
 375,JJ Burnotte,https://www.jjburnotte.be,Info@jjburnotte.be
 376,JL Solutions,https://www.jl-solutions.be,INFO@JL-SOLUTIONS.BE
 377,JL Systems,https://www.jlonline.be,info@jlonline.be
@@ -381,14 +381,14 @@ Number,Company Name,Company Website,Email
 380,Joma,https://www.bvbajoma.be,info@bvbajoma.be
 381,JRB Energy,https://jrbenergy.be,
 382,JS Technics,http://jstechnics.be/,
-383,Julien Marchand Photovoltaïque,https://www.julien-marchand-photovoltaique.be,info@jmphotovoltaique.be
+383,Julien Marchand Photovoltaïque,https://www.julien-marchand-photovoltaique.be,
 384,JV Dakwerken,https://www.jv-dakwerken.be,
 385,K.L. Electro,https://kl-electro.be,info@KL-greenenergy.be
-386,Karel Quintyn,https://karelquintyn.be,18info@karelquintyn.bePaanderstraat
-387,Kaspers Technics,https://kaspers-technics.be,518info@kasperstechnics.be
+386,Karel Quintyn,https://karelquintyn.be,
+387,Kaspers Technics,https://kaspers-technics.be,info@kasperstechnics.be
 388,KDI Industries,https://www.kdi-industries.be,info@kdi-industries.be
 389,Kevin Scheerlinck,https://www.kevinscheerlinck.be,
-390,Kijzer,https://www.kijzer.be,46info@kijzer.beOndernemingsnummer
+390,Kijzer,https://www.kijzer.be,
 391,Kilowatt-Solar,https://www.kilowattsolar.eu,info@kilowattsolar.eu
 392,KLiK,http://www.ikwilairco.com,
 393,Klima-technics,https://klimatechnics.be,pieter@klimatechnics.be
@@ -399,11 +399,11 @@ Number,Company Name,Company Website,Email
 398,Kryptonite,https://www.kryptonite-bvba.be,jeroen@kryptonite-bvba.be
 399,Kti-Wti,https://kti-wti.be,
 400,KVE Systems,https://www.kve-systems.be,info@kve-systems.be
-401,L-Solar,https://www.l-solar.be,info@l-solar.beSocial
+401,L-Solar,https://www.l-solar.be,
 402,L.H.E.,https://www.elektriciteitswerkenlavigne.be,
 403,L'embellie,https://www.lembellie.eu,info@lembellie.eu
 404,L&S Elektro,http://www.lselektro.be,info@lselektro.be
-405,Laleman Technieken,https://www.lalemanbv.be,stijn@lalemanbv.beJobs
+405,Laleman Technieken,https://www.lalemanbv.be,
 406,Lamont Energietechniek,https://lamontenergietechniek.be,info@lamontenergietechniek.be
 407,Lenartz,https://www.lenartz.be,info@lenartz.be
 408,Léonard,https://www.leonard-lemaitre.be,contact@atriatech.be
@@ -412,15 +412,15 @@ Number,Company Name,Company Website,Email
 411,Limbotech,https://limbotech.be,
 412,Linea Trovata,https://www.lineatrovata.com,
 413,Luc,https://lucsrl.be,info@lucsprl.be
-414,Luxenergy,https://www.luxenergy.be,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+414,Luxenergy,https://www.luxenergy.be,
 415,Madi Toiture,https://maditoiture.be,
 416,Maes,https://maes-totaalprojecten.be,info@maes-totaalprojecten.be
 417,Maes Verwarming,https://www.maes-verwarming.be,info@maes-verwarming.be
 418,Maison Istace,https://wallux.com/electricite-maison-istace-paliseul,
-419,Major Green Solutions,https://www.majorgreensolutions.be,info@majorgreensolutions.beT
+419,Major Green Solutions,https://www.majorgreensolutions.be,
 420,MAL Electronics,http://malelectronics.be,Contact@malelectronics.be
 421,Mats,https://matsheyse.be,info@matsheyse.be
-422,Matthys & Zoon,https://www.matthys-en-zoon.be,75info@matthys-en-zoon.beNaam
+422,Matthys & Zoon,https://www.matthys-en-zoon.be,
 423,Maxus,https://maxus.be,
 424,MC Solar,https://mc-solar.be,
 425,MDSolar,https://www.mdsolar.eu,info@mdsolar.eu
@@ -448,15 +448,15 @@ Number,Company Name,Company Website,Email
 447,Natural Energy,https://natural-energy.be,info@natural-energy.be
 448,Neopower,https://www.neopower.com,info@neopower.com
 449,Nicolas,https://nicolasgf.be,
-450,Nicra,https://www.nicra-energie.be,info@nicra-energie.beReviewsRealisatiesFAQHomeDienstenLaadpaalZonnepanelenReiniging
+450,Nicra,https://www.nicra-energie.be,
 451,Noirfalise,https://www.solarnrj.be,info@solarnrj.be
 452,NOVA Energy,https://novasolar.be,
 453,Noveway,https://noveway.com,emilie@noveway.com
-454,NRG Man,https://nrgman.be,22info@nrgman.bewww.nrgman.beDoornpark
+454,NRG Man,https://nrgman.be,
 455,NRG-Tec,https://nrg-tec.be,info@nrg-tec.be
 456,NRJ+,https://nrj-plus.be,info@nrj-plus.be
 457,nSolar,https://www.nlab.be,
-458,NST,https://www.nstechnics.be,info@nstechnics.beVraag
+458,NST,https://www.nstechnics.be,
 459,NV Berckmoes,https://nvberckmoes.be,
 460,NV Electricite,https://nvelectricite.be,N-velec@outlook.be
 461,Oliva Technics,https://www.oliva-technics.be,
@@ -468,27 +468,27 @@ Number,Company Name,Company Website,Email
 467,Ovelec,https://www.ovelec.be,info@ovelec.be
 468,Paul Technics,https://paultechnics.be,info@paultechnics.be
 469,Perpetum Energy,https://www.perpetumenergy.com,
-470,PH Dakwerken,https://www.phdakwerken.be,53info@phdakwerken.beNLNederlandsFran
-471,PhotonSolar,https://www.photonsolar.be,info@photonsolar.comAddress
+470,PH Dakwerken,https://www.phdakwerken.be,
+471,PhotonSolar,https://www.photonsolar.be,
 472,Pieter-Jan Goeminne,https://www.pjgoeminne.be,pj@pjgoeminne.be
 473,Planet-Eco,https://www.planet-eco.be,info@planet-eco.be
 474,PlanetPlus,https://www.planetplus.be,
 475,PMA Elektriciteit,https://www.pmaelektriciteit.be,
 476,Powergreen,https://www.mypowergreen.be,
 477,Powerline,https://powerlinebelgium.be,info@powerlinebelgium.be
-478,PowerYourself,https://www.poweryourself.be,info@poweryourself.bePowerYourself
+478,PowerYourself,https://www.poweryourself.be,
 479,Prodeus,http://www.prodeus.be,info@prodeus.be
 480,ProEnergy Solutions,https://www.proenergy.be,
 481,Pure Energy Consult,https://pure-energyconsult.be,info@pure-energyconsult.be
 482,Pure Solar Energy,https://quote.puresolarenergy.be,
 483,PV Elektro,https://www.pvelektro.be,pvelektrobvba@gmail.com
-484,PVA Energy,https://www.pva-energy.be,info@pva-energy.bePV
+484,PVA Energy,https://www.pva-energy.be,
 485,Qsani,https://www.qsani.be,info@qsani.be
 486,QuattroSolar,https://www.quattrosolar.be,info@quattrosolar.be
 487,R.F. Projects,https://www.remacle-sprl.be,info@rfprojects.eu
 488,Rasolar,https://rasolar.be,info@rasolar.be
 489,Rebatitoit,https://www.rebatitoit.be,
-490,Reflow,https://reflow-solutions.be,420.08.12info@reflow-solutions.beHome
+490,Reflow,https://reflow-solutions.be,
 491,Rena Plus,https://www.renaplus.be,info@varamedia.be
 492,Renocast,https://www.renocast.be,info@renocast.be
 493,Renodak Systems,http://renodak.be,info@renodak.be
@@ -501,11 +501,11 @@ Number,Company Name,Company Website,Email
 500,Rioglass Solar,https://rioglass.com,
 501,RM Solutions,https://rmsolutionsgroup.be,
 502,Rooflight Project,https://www.rooflight.pro,info@rooflight.pro
-503,Roozenburg Dakwerken,https://roozenburgdakwerken.be,00info@roozenburg.beHeerbaan
+503,Roozenburg Dakwerken,https://roozenburgdakwerken.be,
 504,RV Technics,https://www.rvtechnics.be,info@rvtechnics.be
 505,S. Project,https://sproject.be,s.project@skynet.be
 506,S&S elektrotechnieken,https://sselektro.be,info@sselektro.be
-507,S4A,https://s4a.be,03info@s4a.beBTW
+507,S4A,https://s4a.be,
 508,Samline,https://samline.be,info@samline.be
 509,San-CV-Solar Hoornaert,https://frederikhoornaert.be,sammybytebier@hotmail.com
 510,Saneltech,https://www.saneltech.be,info@saneltech.be
@@ -519,15 +519,15 @@ Number,Company Name,Company Website,Email
 518,Sedsolar,http://www.sedsolar.be,
 519,Seetech,https://www.seetech.be,
 520,Seghers Technics,https://seghers-technics.be,
-521,Serasol,https://www.serasolsprl.be,serasolsprl@gmail.comHOMEPANNEAUX
+521,Serasol,https://www.serasolsprl.be,
 522,Sevatec,https://www.sevatec.be,info@sevatec.be
 523,SFelek,https://sfelek.be,info@sfelek.be
 524,SigueSOL,https://www.siguesol.com,info@siguesol.com
 525,Silicium Solar Energie,https://www.siliciumsolarenergie.com,solairedevis@siliciumsolarenergie.com
 526,Simons,https://www.atbsimonsbvba.eu,
-527,Sky Solar,https://www.skysolar.be,7138info@skysolar.bePrivacy
+527,Sky Solar,https://www.skysolar.be,
 528,Slimme-Energie,https://www.slimme-energie.be,johan@slimme-energie.be
-529,Slimmerbouwen,https://www.slimmerbouwen.be,logo@2x.png
+529,Slimmerbouwen,https://www.slimmerbouwen.be,
 530,Smart Power Solutions,https://smartpowersolutions.be,info@smartpowersolutions.be
 531,Smart Solar Energy,https://www.smartsolarenergy.be,info@smartsolarenergy.be
 532,Smartroof,https://www.smartroof.be,lode.herreweghe@smartroof.be
@@ -536,7 +536,7 @@ Number,Company Name,Company Website,Email
 535,SoGreen,https://www.sogreen.be,info@sogreen.be
 536,Sol-E-Tech,https://www.sol-e-tech.com,info@soletech.be
 537,Sol-Eol,https://www.sol-eol.be,info@sol-eol.be
-538,Solabel,https://www.construbel.be,info@construbel.beFax
+538,Solabel,https://www.construbel.be,
 539,Solairco,https://www.solairco.be,info@solairco.be
 540,Solaire Liégeois,https://solaireliegeois.be,info@solaireliegeois.be
 541,Solar Assistance,https://solar-assistance.be,
@@ -548,33 +548,33 @@ Number,Company Name,Company Website,Email
 547,Solar Engineering,https://www.solar-engineering.be,
 548,Solar Group,https://www.solar-group.be,
 549,Solar Invest,https://www.solarinvest.be,info@solarinvest.be
-550,Solar Light Energy,https://solarlightenergy.be,32.475.97.00.00info@solarlightenergy.beNaam
+550,Solar Light Energy,https://solarlightenergy.be,
 551,Solar Power Systems,https://www.solarpowersystems.be,info@sps.be
 552,Solar Service Buggenhout,https://solarservicebuggenhout.be,
-553,Solar Spirit,https://www.solarspirit.be,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+553,Solar Spirit,https://www.solarspirit.be,
 554,Solar System,https://www.solar-system.be,solarsystem.infos@gmail.com
 555,Solar Waasland,https://solarwaasland.be,info@solarwaasland.be
 556,Solar-Ecologie,https://www.solar-eco.be,
 557,Solar-Kempen,http://www.solar-kempen.be,sales@solar-kempen.be
 558,Solar-Tec,https://www.solar-tec.be,info@solar-tec.be
 559,SolarBoost,https://www.solarboost.be,
-560,Solare,https://solare.be,12Emailinfo@solare.beVolg
+560,Solare,https://solare.be,
 561,Solarline,https://www.solarline.be,info@solarline.be
-562,SolarPro,https://solarproducts.be,00info@solarproducts.be
+562,SolarPro,https://solarproducts.be,info@solarproducts.be
 563,Solarroof,https://solarroof.be,info@solarroof.be
-564,Solarsolutions,https://www.solarsolutions.be,40info@solarsolutions.beHomeProducten
+564,Solarsolutions,https://www.solarsolutions.be,
 565,SolarUnity,https://solarunity.eu,projects@solarunity.eu
 566,Solarys Energy,https://www.solarys.be,
 567,Solec,https://www.solec.be,
 568,Solena,https://solena.be,info@solena.be
 569,Soleris,https://soleris.be,
-570,Solitec,https://www.solitec.be,info@solitec.beSolitec
+570,Solitec,https://www.solitec.be,
 571,Sollec,https://www.sollec.be,info@sollec.be
 572,Solled,https://www.solled.be,bram@leadon.be
 573,Sollie,https://www.solliebvba.be,info@solliebvba.be
-574,Solora,https://solora.be,info@solora.beBTW
+574,Solora,https://solora.be,
 575,Soloya,https://soloya.be,info@soloya.be
-576,Soltech,https://soltech.be,900soltech@soltech.be
+576,Soltech,https://soltech.be,soltech@soltech.be
 577,Soltis,https://soltis.be,info@soltis.be
 578,Solution Energie Belgique,https://se-belgique.com,
 579,Sonck,https://sonck.be,info@sonck.be
@@ -582,7 +582,7 @@ Number,Company Name,Company Website,Email
 581,SoWatt,https://sowatt.be,
 582,SRMGT,https://www.srmgt.be,contact@srmgt.be
 583,STA Technique,https://www.statechnique.be,Florennesinfo@statechnique.be
-584,Stafco,https://stafco.be,410E-mailsales@stafco.be
+584,Stafco,https://stafco.be,E-mailsales@stafco.be
 585,Steven Meyers,https://www.meyerssteven.be,info@meyerssteven.be
 586,Stilix Energy,https://www.stilix-energy.be,info@stilix-energy.be
 587,Style Solar,https://stylesolar.be,info@stylesolar.be
@@ -607,20 +607,20 @@ Number,Company Name,Company Website,Email
 606,Technics Heireman,https://technicsheireman.be,info@technicsheireman.be
 607,Technologic,https://www.technologicbv.be,info@technologicbv.be
 608,TechSolar,https://techsolar.be,
-609,Teknica,https://www.teknica.be,Emailinfo@teknica.be
+609,Teknica,https://www.teknica.be,info@teknica.be
 610,Telcom,https://www.telcom.be,info@telcom.be
 611,Tequiero,https://www.tequiero.be,
-612,Tibecs,https://www.tibecs.be,47Emailinfo@tibecs.beCopyright
+612,Tibecs,https://www.tibecs.be,
 613,TL Elec,https://www.tlelec.be,
 614,Toiture Nix-Corteil,https://www.toiture-nix.be,
 615,Toiture Rousseaux,https://www.toiture-rousseaux.be,info@toiture-rousseaux.be
-616,Torre Moerman,https://www.torremoerman.be,253.660info@torremoerman.beHomeBedrijfNieuwsDienstenVerwarming
+616,Torre Moerman,https://www.torremoerman.be,
 617,Total Energy Projects,https://www.totalenergy.be,info@totalenergy.be
 618,TPC Collard,https://tpc-collard.be,info@tpc-collard.be
 619,Trevi,https://trevi-env.com,info@trevi-env.com
 620,Trim,https://www.trim.be,info@trim.be
 621,TS Technics,https://www.tstechnics.be,
-622,Uma-Electrics,https://www.uma-electrics.be,support@jouwweb.nl
+622,Uma-Electrics,https://www.uma-electrics.be,
 623,V&D,https://v-en-d.be,info@v-en-d.be
 624,Vamax Electro,https://vamaxelectro.be,info@vamaxelectro.be
 625,Van Der Biest Elektriciteitswerken,https://www.vanderbiestelektriciteitswerken.be,
@@ -631,9 +631,9 @@ Number,Company Name,Company Website,Email
 630,Van Marcke,https://www.vanmarcke.com/nl,info@vanmarcke.be
 631,Vanaken,https://vanaken-bvba.be,welkom@vanaken-bvba.be
 632,Vanbaelen Energietechnieken,https://www.vanbaelen-energietechnieken.be,Johan@vanbaelen-energietechnieken.be
-633,Vandenborre Devos,https://www.vandenborre-devos.be,78info@vandenborre-devos.beVAT
+633,Vandenborre Devos,https://www.vandenborre-devos.be,
 634,Vandenhole Construct,https://www.dakwerkenvdhpascal.be,pascal.vandenhole@hotmail.com
-635,Vandoorne,https://www.vandoorne.be,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+635,Vandoorne,https://www.vandoorne.be,
 636,Vanhees,https://vanhees-bvba.be,info@vanhees-bvba.be
 637,Vantotec,https://www.vantotec.be,info@vantotec.be
 638,VDV,https://www.vdv.be,
@@ -642,7 +642,7 @@ Number,Company Name,Company Website,Email
 641,Verisol,https://verisol.be,info@verisol.be
 642,Verlinde R&J,https://www.verlinde-rj.be,info@verlinde-rj.be
 643,Vermaelen L. & Co,https://www.vermaelenbvba.be,info@vermaelenbvba.be
-644,Vermeulen,http://www.bvbavermeulen.be,info@bvbavermeulen.beVisieDisciplines
+644,Vermeulen,http://www.bvbavermeulen.be,
 645,Vermeulen & Zn,http://www.vermeulen-zonen.be,info@vermeulen-zonen.be
 646,Verreet-Elek,https://www.verreet-elek.be,info@verreet-elek.be
 647,Vert-Energie,https://www.vert-energie.be,
@@ -653,9 +653,9 @@ Number,Company Name,Company Website,Email
 652,Vicmar,https://vicmar.be,
 653,Viridios,https://viridios.be,info@viridios.be
 654,Virya Energy,https://virya-energy.com,
-655,VMA,https://www.vma.be,25info@vma.be
+655,VMA,https://www.vma.be,info@vma.be
 656,Volteco,https://www.volt-eco.be,info@volteco.be
-657,Vorsselmans Solar,https://www.vorsselmans-solar.be,41solar@vorsselmans.be
+657,Vorsselmans Solar,https://www.vorsselmans-solar.be,solar@vorsselmans.be
 658,VP Elektriciteit,https://www.vpelektriciteit.be,info@vpelektriciteit.be
 659,VPRO Energy,https://www.vpro-energy.be,info@vpro-energy.be
 660,Vrintec,https://www.vrintec.be,info@vrintec.be
@@ -665,15 +665,15 @@ Number,Company Name,Company Website,Email
 664,Wase Zon,https://www.wasezon.be,info@wasezon.be
 665,Wattuneed,https://www.wattuneed.com,info@wattuneed.com
 666,Weygers Montage,http://weygersmontage.be,
-667,Wille Ronald,https://www.willeronald.be,43Ainfo@willeronald.be
-668,Willems Tecno,https://www.willems-tecno.be,magazijn@willems-tecno.beOnze
+667,Wille Ronald,https://www.willeronald.be,Ainfo@willeronald.be
+668,Willems Tecno,https://www.willems-tecno.be,
 669,Wimtechniek,https://www.wimtechniek.be,wim.stassyns@wimtechniek.be
 670,Winants,https://www.winants.be,info@winants.be
 671,Wiskon Tec,https://www.wiskon.be,
 672,Wittendorp,https://www.wittendorp.be,info@wittendorp.be
 673,WOPA,https://wopa.be,
-674,Wouters & Van Beyens,https://www.woutersenvanbeyens.be,Waregeminfo@woutersenvanbeyens.beGSM
-675,WVG Elektro,https://www.wvgelektro.be,info@wvgelektro.beHOMENIEUWBOUW
+674,Wouters & Van Beyens,https://www.woutersenvanbeyens.be,
+675,WVG Elektro,https://www.wvgelektro.be,
 676,WVR Energietechnieken,https://www.wvrenergietechnieken.be,info@wvrenergietechnieken.be
 677,Xavier Groenen,https://www.groenenxavier.be,confortmultitech@gmail.com
 678,XL Electro,https://www.xlelectro.be,info@xlelectro.be

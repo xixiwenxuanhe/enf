@@ -4,6 +4,7 @@
 import csv
 import os
 import sys
+import glob
 
 def extract_emails(csv_file_path):
     """
@@ -40,16 +41,39 @@ def save_emails(emails, output_file="extracted_emails.txt"):
     except Exception as e:
         print(f"保存邮箱地址时出错: {e}")
 
+def extract_emails_from_directory(directory_path):
+    """
+    遍历指定目录下所有csv文件，提取所有非空邮箱
+    """
+    all_emails = []  # 改用列表而不是集合，保留重复项
+    csv_files = glob.glob(os.path.join(directory_path, '*.csv'))
+    if not csv_files:
+        print(f"警告: 目录 '{directory_path}' 下未找到任何CSV文件")
+        return all_emails
+        
+    for csv_file in csv_files:
+        try:
+            emails = extract_emails(csv_file)
+            all_emails.extend(emails)  # 使用extend而不是update，保留所有邮箱
+            print(f"已处理文件: {csv_file}，提取邮箱数: {len(emails)}")
+        except Exception as e:
+            print(f"警告: 处理文件 '{csv_file}' 时出错: {e}")
+            
+    return all_emails
+
 def main():
-    # 直接在代码中指定CSV文件路径
-    csv_file_path = "../procedure1/installer_Spain_Procedure120250507.csv"
+    # 设置要处理的CSV文件目录
+    csv_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'procedure0')
     output_file = "extracted_emails.txt"
-    
-    if not os.path.exists(csv_file_path):
-        print(f"错误: 文件 '{csv_file_path}' 不存在")
+
+    if not os.path.exists(csv_dir):
+        print(f"错误: 目录 '{csv_dir}' 不存在")
         sys.exit(1)
-    
-    emails = extract_emails(csv_file_path)
+
+    emails = extract_emails_from_directory(csv_dir)
+    if not emails:
+        print("未提取到任何邮箱地址。")
+        sys.exit(0)
     save_emails(emails, output_file)
 
 if __name__ == "__main__":

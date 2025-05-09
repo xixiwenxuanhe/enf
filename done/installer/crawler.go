@@ -147,11 +147,11 @@ func processFile(inputFile string, maxConcurrency int) FileStat {
 	if idx := strings.LastIndex(inputFile, "/"); idx != -1 {
 		baseName = inputFile[idx+1:]
 	}
-	tempFile := "procedure1/temp_" + strings.Replace(baseName, "Company", "Procedure1", 1)
-	outputFile := "procedure1/" + strings.Replace(baseName, "Company", "Procedure1", 1)
+	tempFile := "procedure0/temp_" + strings.Replace(baseName, "Company", "Procedure0", 1)
+	outputFile := "procedure0/" + strings.Replace(baseName, "Company", "Procedure0", 1)
 	
 	// 确保目录存在
-	os.MkdirAll("procedure1", 0755)
+	os.MkdirAll("procedure0", 0755)
 	
 	tempOut, err := os.Create(tempFile)
 	if err != nil {
